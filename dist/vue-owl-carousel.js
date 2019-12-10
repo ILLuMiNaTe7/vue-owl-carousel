@@ -2609,7 +2609,7 @@
                     order: !0,
                     orphans: !0,
                     widows: !0,
-                    zIndex: !0,
+                    zIndex: !0
                 },
                 cssProps: {},
                 style: function (e, t, n, i) {
